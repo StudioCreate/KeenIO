@@ -1,0 +1,2 @@
+# KeenIO
+Building a dashboard for your customers? Need a quick and easy way to share stuff with your team? Check out the new keen/dashboards on Github and get up and running super quick with great-looking, customizable dashboard templates.  Each template is composed of a minimal set of custom styles built on top of Bootstrap v3.2, covering some of the most common dashboard use cases and layout configurations.
